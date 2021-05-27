@@ -5,6 +5,3 @@ public class Test {
         System.out.println(Math.pow(a, b));
     }
 }
-
-
-
